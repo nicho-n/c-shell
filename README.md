@@ -1,2 +1,2 @@
 # shell
-the most recent c program I have written for now.
+the c program that I have written most recently.
